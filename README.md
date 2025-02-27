@@ -18,3 +18,4 @@ I'm a recent graduate of a Data Technician Skills Bootcamp and I am looking to s
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Husainrhoman00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+https://www.linkedin.com/in/husain-rhoman-774259224/

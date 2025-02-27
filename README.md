@@ -6,7 +6,8 @@ I'm a recent graduate of a Data Technician Skills Bootcamp and I am looking to s
 * 🌍  I'm based in Birmingham
 * ✉️  You can contact me at [husainrhoman123@gmail.com](mailto:husainrhoman123@gmail.com)
 * 🧠  I'm learning sql,python,power bi and tableue.
-
+Projects
+https://sites.google.com/d/1P6B7iXsUTrRTy5Lz1XAa-hneIlfOEyUx/p/19rqiurkrOeOV26EmFdumCaoCYQKcohY3/edit
 ### Skills
 
 

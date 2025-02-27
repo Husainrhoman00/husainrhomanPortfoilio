@@ -6,13 +6,6 @@ I'm a recent graduate of a Data Technician Skills Bootcamp and I am looking to s
 * 🌍  I'm based in Birmingham
 * ✉️  You can contact me at [husainrhoman123@gmail.com](mailto:husainrhoman123@gmail.com)
 * 🧠  I'm learning sql,python,power bi and tableue.
-
-* Projects
-* 
-* Python
-* https://sites.google.com/d/1P6B7iXsUTrRTy5Lz1XAa-hneIlfOEyUx/p/1mnhwQq1oHvzPZYDQP6Ms5_yWDwLyGnIZ/edit#
-* Tableau
-* https://sites.google.com/d/1P6B7iXsUTrRTy5Lz1XAa-hneIlfOEyUx/p/1mnhwQq1oHvzPZYDQP6Ms5_yWDwLyGnIZ/edit
 ### Skills
 
 
@@ -25,3 +18,4 @@ I'm a recent graduate of a Data Technician Skills Bootcamp and I am looking to s
 
 <p align="left"> <a href="https://www.github.com/Husainrhoman00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 https://www.linkedin.com/in/husain-rhoman-774259224/
+https://sites.google.com/view/husainrhoman/home
